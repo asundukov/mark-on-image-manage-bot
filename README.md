@@ -4,5 +4,5 @@ Manage bot for [mark-on-image-bot](https://github.com/asundukov/mark-on-image-bo
 
 See production at [@MarksManageBot](https://t.me/MarksManageBot)
 
-Based on [Kotlin telegram bot library](https://github.com/asundukov/kotlin-telegram-bot)
+Based on [Kotlin telegram bot framework](https://github.com/asundukov/kotlin-telegram-bot)
 
